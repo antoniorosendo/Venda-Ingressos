@@ -21,7 +21,7 @@ O programa armazena os dados dos shows em um arquivo de texto (shows.txt), garan
 - Um compilador C (como GCC).
 
 # Clonar o Repositório:
-git clone https://github.com/antoniorosendo/trab-prog2-final
+git clone https://github.com/antoniorosendo/Venda-Ingressos
 
 # Compilar:
 Você pode compilar o programa usando o GCC diretamente:
